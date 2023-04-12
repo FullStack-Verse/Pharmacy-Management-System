@@ -10,6 +10,12 @@
 ![image](https://user-images.githubusercontent.com/64016811/210103702-d50519a4-a8ad-46ce-aaa7-d465019dcdd6.png)
 
   
+## Essential Information:
+
+- Database Name : pharmacy
+- Admin Name : someone
+- Password : 123
+  
   
   
  
